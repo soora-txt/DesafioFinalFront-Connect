@@ -12,7 +12,7 @@ function Inicio() {
         </p>
       </div>
 
-      <img src="" alt="Imagem da tela inicial" />
+      <img src={ImgIncial} alt="Imagem da tela inicial" />
     </section>
   );
 }
