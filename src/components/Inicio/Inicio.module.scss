@@ -30,3 +30,46 @@ p {
 }
 
 }
+
+
+
+//Responsivo do início
+@media (min-width: 201px) and (max-width: 500px) {
+
+.containerTelaInicial {
+  // background-color: rgb(209, 209, 201);
+  align-items: center;
+  justify-content: space-evenly;
+
+
+    div {
+    // border: solid red;
+        width: 90%;
+        align-items: center;
+        justify-content: space-evenly;
+        text-align: center;
+        
+        
+        h1 {
+            font-size: 2rem;
+            width: 90%;
+            //border: solid purple;    
+            }
+
+
+        p {
+            font-size: 1rem;
+            width: 90%;
+            text-align: center;
+            }
+        
+        }
+
+        img{
+            width: 70%;
+            border-radius: 100%
+            }
+        
+    }
+}
+
