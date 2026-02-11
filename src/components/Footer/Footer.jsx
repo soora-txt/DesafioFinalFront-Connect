@@ -4,7 +4,7 @@ import Instagram from "../../assets/instagram.png"
 import Linkedin from "../../assets/linkedin.png"
 
 
-import styles from "./footer.module.scss"
+import styles from "./Footer.module.scss"
 
 
 function Footer(){
